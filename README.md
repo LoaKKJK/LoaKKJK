@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm not Anselmo! A passionate Data Science student from Brazil.
+  Hi 👋, I'm not Anselmo! From Balacobaco.
 
   - 🌱 I’m definily not Anselmo <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
@@ -18,9 +18,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 45 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning, PHP, React native. 
+  - 💬 I love myself. 
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I love lagartixas too
 </details>
 
 <!-- Links -->
