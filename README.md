@@ -12,6 +12,8 @@
   - 🌱 I’m definily not Anselmo <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I LIKE URANGO TANGOS.
+
+  - ⚡ I love lagartixas.
 </p>
 
 <!-- Dropdown -->
