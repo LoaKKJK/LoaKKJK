@@ -13,16 +13,16 @@
 
   - 🔭 I LIKE URANGO TANGOS.
 
-  - ⚡ I love lagartixas.
+  - ⚡ I love Dinossauros maneiros.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I love myself. 
+  - 💬 I luv myself. 
 
-  - ⚡ I love lagartixas too
+  - ⚡ I luv Carlo o Pinto
 </details>
 
 <!-- Links -->
