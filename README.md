@@ -36,12 +36,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/)
-- [Exploratory Data Analysis](https://github.com/)
-- [Interactive Data Visualization](https://github.com/)
-- [Data Querying and Analysis](https://github.com/)
-- [Client Registry System](https://github.com/)
-
+- [Seaborn Data Visualization](https://term.ooo/)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
