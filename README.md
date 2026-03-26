@@ -36,7 +36,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://term.ooo/)
+- [Seaborn Data Visualization](https://www.bing.com/videos/riverview/relatedvideo?q=barriguinha+mole&&mid=2B1AD132458A61357A962B1AD132458A61357A96&FORM=VRDGAR)
+
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
